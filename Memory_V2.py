@@ -1,5 +1,7 @@
 # implementation of card game - Memory
 
+# fix black bar
+
 import simpleguitk as simplegui
 import random
 
